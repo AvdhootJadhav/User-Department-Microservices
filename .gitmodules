@@ -1,0 +1,12 @@
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/AvdhootJadhav/Service-Registry
+[submodule "cloud-gateway"]
+	path = cloud-gateway
+	url = https://github.com/AvdhootJadhav/API-Gateway
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/AvdhootJadhav/User-Service
+[submodule "department-service"]
+	path = department-service
+	url = https://github.com/AvdhootJadhav/Department-Service
